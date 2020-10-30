@@ -41,7 +41,7 @@ Submitted [Kernel](https://www.kaggle.com/mannsaradva/digit-recognizer) with 0.9
 
 [**LINKEDIN**](https://www.linkedin.com/in/mann-saradva-aa37a0192/)
 
-[**GITHUB**](https://github.com/gsurma)
+[**GITHUB**](https://github.com/Mann1904)
 
 
 
