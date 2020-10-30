@@ -56,5 +56,5 @@
 // since it takes the flask app about 20 seconds to start up again
 var http = require("http");
 setInterval(function() {
-    http.get("http://mnist-flask-app.herokuapp.com");
+    http.get("https://handwritten-digit-recognizer1.herokuapp.com");
 }, 300000); // every 5 minutes (300000)
