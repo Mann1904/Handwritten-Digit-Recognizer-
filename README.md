@@ -1,7 +1,7 @@
 # Handwritten-Digit-Recognizer-
 
 
-# Digit Recognizer
+Handwritten digit recognition application implemented by TensorFlow2, Keras and Flask.
 
 Part of the [Kaggle competition](https://www.kaggle.com/c/digit-recognizer). 
 
